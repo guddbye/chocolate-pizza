@@ -30,5 +30,13 @@ header {
 
 .date2 {
 
-
 }
+
+.pseuduobutton-share {
+  display: inline-block;
+  font: bold;
+  text-decoration: none;
+  background-color: red;
+  color: white;
+  padding: 20px 20px;
+  }
